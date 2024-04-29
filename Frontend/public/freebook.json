@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Worlds Within: Tales of Adventure, Mystery, and Wonder",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1714304647~exp=1714305247~hmac=20c594ee85fad74323f0363a02ea2628b6a64ab476d9880c39d41a26ecd0df58"
+    },
+    {
+        "id": 2,
+        "name": "Sports Book",
+        "title": "Game Changers: Stories of Triumph, Determination, and Victory",
+        "price": 0,
+        "category": "Sports",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1714312159~exp=1714315759~hmac=ec501ea9d6585477025e6846f7cb2a08802d2bab54964cd3c805f708ee264799&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Comedy Book",
+        "title": "Laugh Out Loud: Hilarious Tales and Jokes Galore",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149331734.jpg?t=st=1714312290~exp=1714315890~hmac=21bdad6c6156549b68836581a3e2f407b01849652c366e35456932919dbc3efe&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Mystery Book",
+        "title": "Whispers in the Shadows: Tales of Intrigue Unveiled",
+        "price": 0,
+        "category": "Mystery",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1714312492~exp=1714316092~hmac=7830922eb82fdbbc363b36a3ef426c498b9c9866a2d0d77ce14e9564a0b1ad5f&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Adventure Book",
+        "title": "Into the Unknown: Thrilling Expeditions and Epic Journeys",
+        "price": 0,
+        "category": "Adventure",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350186.jpg?w=740&t=st=1714312637~exp=1714313237~hmac=0cdafcac825bf8c5d399c424f2b09beb322870b0eead91ffad1e8feb92823830"
+    },
+    {
+        "id": 6,
+        "name": "Horror Book",
+        "title": "Shadows of Fear: Terrifying Tales That Haunt Dreams",
+        "price": 0,
+        "category": "Horror",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?w=740&t=st=1714312689~exp=1714313289~hmac=224312b4ea52f8062941ec5b89c80b351147f26459266ddf0606c9c2dac0bc9c"
+    },
+    {
+        "id": 7,
+        "name": "Fantasy Book",
+        "title": "Worlds Within: Tales of Adventure, Mystery, and Wonder",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/stack-books-education-day_23-2150980002.jpg?t=st=1714312732~exp=1714316332~hmac=dae209d4c8d8088f742ddad762bfb75479c0d62fe9ffc7c42b95136e7028cd4b&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Romance Book",
+        "title": "Hearts Entwined: Passionate Love Stories Igniting Eternal Flames",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1714312247~exp=1714315847~hmac=acd20b1db9ec0bb8db32313809f8c39782221c418d6acb45ec115dd77a082540&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Fiction Book",
+        "title": "Worlds Unveiled: Imaginative Realms, Characters, and Adventures",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330601.jpg?w=740&t=st=1714312873~exp=1714313473~hmac=aac5bd959a8f4e82dc6d12d22c453309073625d9b7a160c7fb6484806ad7e88d"
+    },
+    {
+        "id": 10,
+        "name": "Classic Book",
+        "title": "Timeless Tales: Enduring Stories from Literary Masterpieces",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330604.jpg?w=740&t=st=1714312899~exp=1714313499~hmac=50164ffb121323ee28b5fa668824dbc9d00f662ba54fe2766bc41611c18f4507"
+    },
+    {
+        "id": 11,
+        "name": "Thriller Book",
+        "title": "Edge of Fear: Gripping Tales That Keep You Guessing",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330602.jpg?w=740&t=st=1714312924~exp=1714313524~hmac=d135bdb1edcd1469abe6f3d5cf4b39353c49c4964cd5e52267f6be8acbd54cda"
+    }
+
+]
